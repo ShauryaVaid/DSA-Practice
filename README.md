@@ -1,2 +1,7 @@
-# DSA-Practice
-DSA practice for Goldman Sachs Summer 2027 | Arrays, Strings, Hashing, OOPs, DBMS, OS | Apna College Alpha Batch
+# DSA Practice
+
+Solving DSA problems topic-wise as part of Goldman Sachs 
+Summer 2027 preparation.
+
+Course Reference: Apna College Alpha Batch  
+Language: C++ 
