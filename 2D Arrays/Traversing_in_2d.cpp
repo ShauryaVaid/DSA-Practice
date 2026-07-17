@@ -21,5 +21,9 @@ void traverse(){
 }
 int main(){
     traverse();
+<<<<<<< HEAD
     #for traversing
+=======
+    //prints traversed...
+>>>>>>> be83dee1976dfb3ab2296586d9b752e723a8d608
 }
